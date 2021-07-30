@@ -3,7 +3,6 @@
 A new Flutter project involving On-Device Machine Learning.
 Assets include images and the trained .tflite file.
 info.plist and android xml file has been modified to allow gallery access.
-You can clone this repo and sign the app on your iOS or android and test it out urself!
 
 ## Getting Started
 
